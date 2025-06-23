@@ -1,5 +1,6 @@
 # odoo_hotel_management
 Gestión de establecimientos turísticos, basado en Roomdoo pero con una integración completa en el entorno de Odoo.
+```
 Hotel/
 ├── __init__.py
 ├── __manifest__.py
@@ -79,6 +80,4 @@ Hotel/
     ├── test_reserva.py
     ├── test_facturacion.py
     └── test_seguridad.py
-
-
-
+```
